@@ -3,7 +3,7 @@
 iOS内存系列目录
 
 
-## [虚拟内存](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-%E5%86%85%E6%A0%B8-xnu:vm/)
+## [虚拟内存](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-xnu%E5%86%85%E6%A0%B8%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98/)
 
 
 ## [栈](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-%E6%A0%88/)
