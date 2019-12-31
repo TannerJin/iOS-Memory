@@ -11,7 +11,7 @@ iOS内存系列目录
 
 ## [堆](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-%E5%A0%86-libmalloc-%E7%AE%80%E4%BB%8B/)
 
-[libmalloc S-Zone](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%8C%BA/)
+[libmalloc S-Zone](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-%E5%A0%86-libmalloc-magazine-zone/)
 
 [libmalloc nano-zone](https://tannerjin.github.io/2019/12/16/iOS%E5%86%85%E5%AD%98-%E5%A0%86-libmalloc-nano-zone/)
 
